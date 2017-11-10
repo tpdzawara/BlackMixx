@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "341843260383",
+    "firebase_url": "https://blackmixx-e3528.firebaseio.com",
+    "project_id": "blackmixx-e3528",
+    "storage_bucket": "blackmixx-e3528.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341843260383:android:7113ed82f40b5375",
+        "android_client_info": {
+          "package_name": "com.example.tinds.blackmixx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341843260383-5fndrhk3re2d1lppqk2f0jpl28jtnfrs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tinds.blackmixx",
+            "certificate_hash": "8441940562bd311e2a3aae516ac8b11617e72797"
+          }
+        },
+        {
+          "client_id": "341843260383-h7p2m8edpv88001851l9afflssoqdqrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB4B8n5PbPh5D8gbvg3GO6EkCRYx492qk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341843260383-h7p2m8edpv88001851l9afflssoqdqrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
